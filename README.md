@@ -18,4 +18,4 @@ Then open the shell with command in terminal:
   ./main
 ```
 Now, you can use the devices -- in this case, a keyboard and a screen -- in qemu.
-![](images/Keyb screenshot.png)
+![](images/Keyb%20screenshot.png)
