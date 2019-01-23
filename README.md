@@ -21,7 +21,7 @@ Now, you can use the devices -- in this case, a keyboard and a screen -- in qemu
 
 ![](images/Keyb%20screenshot.png)
 ## Declaration
-1. The "enum keycode" part in driver/keyb.c is from 
+1. The function "uint8_t keyboard_to_ascii(uint8_t key)" in driver/keyb.c is from 
   https://github.com/levex/osdev/blob/master/drivers/keyboard.c
-2. The shell structure in shell/main.c is from
+2. The code in shell/main.c is based on
   https://github.com/brenns10/lsh/blob/master/src/main.c
