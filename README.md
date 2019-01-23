@@ -1,6 +1,6 @@
 # linux-shell-inputDriver-example
 ## Introduction
-This project is a practice to help understand the kernel, driver device files and their interaction with userspace.
+This project is a practice to help understand the kernel, device drivers and their interaction with userspace.
 ## Setup
 In terminal, open the qemu with command (change the file paths to yours):
 ```
